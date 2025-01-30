@@ -1,4 +1,4 @@
-# Recomenda-o-de-Produtos
+# Base para um Sistema de Recomendação com Machine Learning
 O código implementa um **sistema de recomendação de imagens de produtos de moda** utilizando aprendizado profundo. Ele cobre todo o pipeline, desde a obtenção dos dados até a recomendação de imagens similares. A seguir, uma avaliação detalhada de cada etapa:  
 
 ---
